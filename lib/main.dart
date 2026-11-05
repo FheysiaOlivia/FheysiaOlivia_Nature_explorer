@@ -90,15 +90,15 @@ class _HomeScreenState extends State<HomeScreen> {
               ClipRect(
                 child: Row(
                   children: [
-                    Image(image: 'https://picsum/photos/id/',
+                    Image(image: 'https://picsum/photos/id/10/300/200',
                       width: 150,
                       height: 300,
                     ),
-                    Image(image: 'https://picsum/photos/id/',
+                    Image(image: 'https://picsum/photos/id/29/300/200',
                       width: 150,
                       height: 300,
                     ),
-                    Image(image: 'https://picsum/photos/id/',
+                    Image(image: 'https://picsum/photos/id/37/300/200',
                       width: 150,
                       height: 300,
                     ),
